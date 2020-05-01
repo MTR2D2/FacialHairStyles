@@ -1,16 +1,10 @@
-.articleImage {
-    padding: 50px 500px ;
-}
+.title {
+    font-size: 300%;
+    margin-left: 34%;
+    margin-top: 4%;
+    color: rgb(65, 76, 225);
+  }
 
-.onlyBody {
-    background-color: blanchedalmond;
-    font-family: 'Roboto', sans-serif;
-
-}
-
-.article {
-    border-collapse: collapse;
-    border: cadetblue;
-    border-style: solid;
-    border-radius: 0%;
-}
+  #subtitle {
+    margin-left: 40%;
+  }
