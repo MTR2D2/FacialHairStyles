@@ -1,16 +1,14 @@
-.articleImage {
-    padding: 50px 500px ;
-}
+.title {
+    text-align: center;
+    font-size: 400%;
+    letter-spacing: 5px;
+    margin-top: 4%;
+    color: #251a01b4;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+  }
 
-.onlyBody {
-    background-color: blanchedalmond;
-    font-family: 'Roboto', sans-serif;
-
-}
-
-.article {
-    border-collapse: collapse;
-    border: cadetblue;
-    border-style: solid;
-    border-radius: 0%;
-}
+  #subtitle {
+    text-align: center;
+    letter-spacing: 1px;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+  }
