@@ -1,12 +1,14 @@
 .title {
     text-align: center;
-    font-size: 300%;
+    font-size: 400%;
     letter-spacing: 5px;
-
     margin-top: 4%;
-    color: rgb(65, 76, 225);
+    color: #251a01b4;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
   }
 
   #subtitle {
     text-align: center;
+    letter-spacing: 1px;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
   }
