@@ -1,6 +1,6 @@
 .title {
     text-align: center;
-    font-size: 400%;
+    font-size: 500%;
     letter-spacing: 5px;
     margin-top: 4%;
     color: #251a01b4;
@@ -11,4 +11,5 @@
     text-align: center;
     letter-spacing: 1px;
     text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+    font-family: 'Exo';
   }
